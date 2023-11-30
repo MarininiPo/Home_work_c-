@@ -12,3 +12,4 @@ C:\Users\Денис Кадыров\Desktop\Домашнее задание с#\e
 C:\Users\Денис Кадыров\Desktop\Домашнее задание с#\exesise_001\obj\Debug\net8.0\exesise_001.pdb
 C:\Users\Денис Кадыров\Desktop\Домашнее задание с#\exesise_001\obj\Debug\net8.0\exesise_001.genruntimeconfig.cache
 C:\Users\Денис Кадыров\Desktop\Домашнее задание с#\exesise_001\obj\Debug\net8.0\ref\exesise_001.dll
+C:\Users\Денис Кадыров\Desktop\Домашнее задание с#\exesise_001\obj\Debug\net8.0\exesise_001.sourcelink.json
